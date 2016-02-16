@@ -5,5 +5,5 @@ Yoga is a physical, mental, and spiritual practice or discipline which originate
 <img class="ten-percent"  src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Drew_Osborne_5.jpeg" alt="yoga1"> 
 <img class="twenty-percent"  src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Drew_Osborne_5.jpeg" alt="yoga1"> 
 
-<img class="ten-percent"  src="https://commons.wikimedia.org/wiki/Category:Yoga#/media/File:Drew_Osborne_6.jpeg" alt="yoga2"> 
-<img class="twenty-percent"  src="https://commons.wikimedia.org/wiki/Category:Yoga#/media/File:Drew_Osborne_6.jpeg" alt="yoga2"> 
+<img class="ten-percent"  src="https://upload.wikimedia.org/wikipedia/commons/8/89/Drew_Osborne_6.jpeg" alt="yoga2"> 
+<img class="twenty-percent"  src="https://upload.wikimedia.org/wikipedia/commons/8/89/Drew_Osborne_6.jpeg" alt="yoga2"> 
