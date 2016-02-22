@@ -10,3 +10,4 @@ Pilates called his method "Contrology" (from "control" and Greek -λογία, -l
 <img class="ten-percent"  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Pilates.jpg" alt="pilates1"> 
 <img class="twenty-percent"  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Pilates.jpg" alt="pilates1"> 
 
+All pictures from [commons wikimedia](https://commons.wikimedia.org)

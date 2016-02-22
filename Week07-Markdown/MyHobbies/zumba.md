@@ -10,3 +10,4 @@ Zumba involves dance and aerobic elements. The choreography incorporates hip-hop
 <img class="ten-percent"  src="https://upload.wikimedia.org/wikipedia/commons/3/38/US_Army_52862_Zumba_adds_Latin_dance_to_fitness_routine.jpg" alt="zumba2"> 
 <img class="twenty-percent"  src="https://upload.wikimedia.org/wikipedia/commons/3/38/US_Army_52862_Zumba_adds_Latin_dance_to_fitness_routine.jpg" alt="zumba2"> 
 
+All pictures from [commons wikimedia](https://commons.wikimedia.org)
