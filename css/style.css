@@ -12,3 +12,17 @@ img.fifty-percent{
 	width:50%;
 	height: 50%;
 }
+
+body{
+	padding-top: 70px;
+	padding-bottom: 30px;
+
+}
+div.padded{
+	padding-top:5px;
+	padding-bottom: 5px;
+}
+
+ ul li{  
+list-style-type:none;  
+}  
